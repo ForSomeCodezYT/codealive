@@ -1,6 +1,6 @@
 {
   "port": 3000,
-  "mongooseURI": "mongodb://localhost/CodeAlive",
+  "mongooseURI": "mongodb+srv://ForSomeReasonsYT:lolgood0000@cluster0.7ztd3.mongodb.net/dbma?retryWrites=true&w=majority",
   "email": {
     "host": "smtp.ethereal.email",
     "port": 587,
